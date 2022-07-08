@@ -1,2 +1,2 @@
-https://github.com/tinkusaini13/tinkusaini13/blob/main/Hello.gif
+<img src="https://github.com/tinkusaini13/Hello.gif" width="29px">
 
