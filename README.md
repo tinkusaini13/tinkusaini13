@@ -3,6 +3,6 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/tinkusaini13/tinkusaini13/blob/main/computer.gif" width="100"/>
+  <img src="https://github.com/tinkusaini13/tinkusaini13/blob/main/comput.gif" width="100"/>
 </div>
 
