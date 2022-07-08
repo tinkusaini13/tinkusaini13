@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://github.com/tinkusaini13/tinkusaini13/blob/main/Hello.gif" width="100"/>
+  <img src="https://github.com/tinkusaini13/tinkusaini13/blob/main/Hello.gif" width="100"/> <p>I'm Tinku saini</p>
 </div>
 
 <div id="header" align="center">
