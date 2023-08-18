@@ -7,6 +7,20 @@
 
 - 👯 I’m looking to collaborate on **DevOps,SRE,platform Projects**
 
+- 🤝 I’m looking for help with **yoyo**
+
+- 👨‍💻 All of my projects are available at [yo.co.in](yo.co.in)
+
+- 📝 I regularly write articles on [yoyo.com](yoyo.com)
+
+- 💬 Ask me about **devyoyo**
+
+- 📫 How to reach me **oyoyo@yoyo.co**
+
+- 📄 Know about my experiences [yoyo.com](yoyo.com)
+
+- ⚡ Fun fact **yoyo**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tinku saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinku saini" height="30" width="40" /></a>
