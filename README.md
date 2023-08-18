@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GitOps, IaC**
 
-- 👯 I’m looking to collaborate on **DevOps,SRE,platform Projects**
+- 👯 I’m looking to collaborate on **DevOps, SRE and platform Engineer Projects**
 
 - 🤝 I’m looking for help with **Cloud and Kubernetes Project**
 
