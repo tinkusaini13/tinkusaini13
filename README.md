@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **GitOps, IaC**
 
-- 👯 I’m looking to collaborate on **DevOps, SRE and platform Engineer Projects**
-
-- 🤝 I’m looking for help with **Cloud and Kubernetes Project**
+- 💞️ I’m looking to collaborate on anything that involves DevOps | Cloud
+  
+- 🛠️ Some of my hobbies include: 🌎Traveling ☕Drinking too much coffee 🎬 watching random Youtube videos 🧑‍🤝‍🧑People watching
 
 - 📫 How to reach me **https://www.linkedin.com/in/tinkusaini**
 
