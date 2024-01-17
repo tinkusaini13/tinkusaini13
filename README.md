@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tinku Saini</h1>
 <h3 align="center">I'm Tinku Saini, a passionate DevOps Engineer from India. I love exploring new technologies.</h3>
 
-- 🔭 I’m currently working as **DevOps Engineer**
+- 🔭 I’m currently working as a **DevOps Engineer**
 
 - 🌱 I’m currently learning **GitOps, IaC**
 
