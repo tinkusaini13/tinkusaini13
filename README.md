@@ -9,7 +9,7 @@
   
 - 🛠️ Some of my hobbies include: 🌎Traveling ☕Drinking too much coffee 🎬 watching random Youtube videos 🧑‍🤝‍🧑People watching
 
-- 📫 How to reach me **https://www.linkedin.com/in/tinkusaini**
+- 📫 How to reach me **https://www.linkedin.com/in/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
